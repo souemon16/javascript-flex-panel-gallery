@@ -5,7 +5,7 @@
 ![JavaScript Flex Panels](https://i.ibb.co/Pmqcmnv/javascript-flex-panel.png)
 
 
-## [Visit the live site](https://souemon16.github.io/javascript-playing-variables/index.html)
+## [Visit the live site](https://souemon16.github.io/javascript-flex-panel-gallery/)
 
 ### Main Features:
 - Fully created by Javascript DOM Manipaulation.
